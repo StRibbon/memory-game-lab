@@ -1,0 +1,15 @@
+/*div {
+    -moz-border-radius: 50%; 
+    -webkit-border-radius: 50%; 
+    border-radius: 50%;
+
+}*/
+
+container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+}
